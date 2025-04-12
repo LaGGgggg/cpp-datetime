@@ -141,7 +141,4 @@ public:
 };
 
 
-void check_integer_range(int value, const Str& error_message, int min, int max);
-
-
 #endif // DATETIME_H
